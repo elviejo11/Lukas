@@ -4,7 +4,7 @@
 
 
 # Custom version
-# mohist / catserver   Install forge   first
+# mohist / catserver   Install forge   firsts
 # purpur               Install fabric  first
 # snapshot             Install vanilla first
 
